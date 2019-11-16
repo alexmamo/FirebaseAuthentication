@@ -1,5 +1,4 @@
 # FirebaseAuthApp
-FirebaseAuthApp is build with Firebase Authentication, Cloud Firestore and Lifecycle using MVVM Architecture Pattern.
 
 This repo is the source code of the following article written on medium.com
 
