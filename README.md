@@ -1,4 +1,4 @@
-# FirebaseAuthApp
+# FirebaseAuthentication
 
 This repo is the source code of the following article written on medium.com
 
